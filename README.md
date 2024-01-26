@@ -3,10 +3,9 @@
 <p align="center">
     <font size=5>
         <b>
-            <a href="https://afdian.net/a/AzureMC">
-                <span style="color:white;">
-                    平霄生存服务器
-            </a>
+            <span style="color:white;">
+                平霄生存服务器
+            </span>
         </b>
     </font>
 </p>
