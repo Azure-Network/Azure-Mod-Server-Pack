@@ -1,5 +1,3 @@
-![五周目纪念](https://github.com/Azure-Network/Azure-Mod-Server-Pack/blob/main/top.png?raw=true)
-
 <p align="center">
     <font size=5>
         <b>
